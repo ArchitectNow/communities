@@ -1,0 +1,27 @@
+{
+  "ValidMaintainers": {
+    "Description": "GitHub users who maintain this folder. PR for changing this folder will only be accepted from these users.",
+    "GitHubHandles": [
+      "alwill",
+      "kvgros"
+    ]
+  },
+  "CommunityInfo": {
+    "Name": "ST. Louis Azure User Group",
+    "Country": "USA",
+    "Url": "https://www.meetup.com/St-Louis-Azure-Meetup/",
+    "SessionizeApiId": "{Your sessionize event Id}",
+    "Logo": {
+      "Description": "Community logo is a .jpeg file 500X500px named dotnet_meetup_stl.png.",
+      "File": "dotnet_meetup_stl.jpeg"
+    },
+    "Locations": [
+      {
+        "Name": "ArchitectNow",
+        "Address": "16759 Main St. Suite 200, Wildwood MO 63040",
+        "Latitude": 38.581300,
+        "Longitude": -90.629130
+      }
+    ]
+  }
+}
